@@ -1,5 +1,5 @@
 # Project-win-evasion-RedTeam
-The project, titled "RED TEAM TACTICS," was built by [Jebin Jose](https://github.com/jebinjosetech) and [Jebin Jose](https://github.com/jebinjosetech). We have successfully completed this project with a top-level grade (Grade 1)
+The project, titled "RED TEAM TACTICS," was built by [Jebin Jose](https://github.com/jebinjosetech) . I have successfully completed this project with a top-level grade (Grade 1)
 > [!NOTE]
 > This project integrates the MITRE ATT&CK framework with advanced red team tactics to identify and exploit security vulnerabilities in Windows systems.
 
