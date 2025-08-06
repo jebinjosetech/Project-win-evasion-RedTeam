@@ -50,5 +50,5 @@ The PowerShell script is obfuscated to evade antivirus detection. Once the obfus
   6. [Villian Framework](https://github.com/t3l3machus/Villain)
   7. [Metaspolit Framework](https://www.metasploit.com/)
   
-You can access the [Report](https://github.com/jebinjosetech/Project-win-evasion-RedTeam/blob/main/Resource/IT_SEC_REPORT.pdf) for more details.
+You can access the [Report](https://github.com/jebinjosetech/Project-win-evasion-RedTeam/blob/main/Resource/IT_SEC_REPORT%20.pdf) for more details.
  
